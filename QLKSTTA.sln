@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanCaPhaKaFa", "QuanCaPhaKaFa\QuanCaPhaKaFa.csproj", "{1C9AF51F-5361-4926-B04F-B087B45F98F9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "Setup2\Setup2.vdproj", "{02007E54-EB94-46C1-B551-A528CFB9CBAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9AF51F-5361-4926-B04F-B087B45F98F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9AF51F-5361-4926-B04F-B087B45F98F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9AF51F-5361-4926-B04F-B087B45F98F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9AF51F-5361-4926-B04F-B087B45F98F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02007E54-EB94-46C1-B551-A528CFB9CBAB}.Debug|Any CPU.ActiveCfg = Debug
+		{02007E54-EB94-46C1-B551-A528CFB9CBAB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20E2982A-C99C-4987-97C1-F27E01570AFD}
+	EndGlobalSection
+EndGlobal

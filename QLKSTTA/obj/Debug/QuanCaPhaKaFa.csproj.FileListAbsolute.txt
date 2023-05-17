@@ -1,0 +1,34 @@
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\bin\Debug\QuanCaPhaKaFa.exe.config
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\bin\Debug\QuanCaPhaKaFa.exe
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\bin\Debug\QuanCaPhaKaFa.pdb
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.frmDangNhap.resources
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.Properties.Resources.resources
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.csproj.GenerateResource.cache
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.exe
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.pdb
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.frmHeThong.resources
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.frmChucVu.resources
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.frmLoaiSanPham.resources
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.frmNguoiDung.resources
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.frmNhanVien.resources
+C:\Users\PC\Source\Repos\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.frmSanPham.resources
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\bin\Debug\QuanCaPhaKaFa.exe.config
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\bin\Debug\QuanCaPhaKaFa.exe
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\bin\Debug\QuanCaPhaKaFa.pdb
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.csproj.AssemblyReference.cache
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.csproj.SuggestedBindingRedirects.cache
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.frmChucVu.resources
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.frmDangNhap.resources
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.frmHeThong.resources
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.frmLoaiSanPham.resources
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.frmNguoiDung.resources
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.frmNhanVien.resources
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.frmSanPham.resources
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.Properties.Resources.resources
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.csproj.GenerateResource.cache
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.csproj.CoreCompileInputs.cache
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.exe
+D:\QuanCaPhaKaFa (3)\QuanCaPhaKaFa\QuanCaPhaKaFa\obj\Debug\QuanCaPhaKaFa.pdb
